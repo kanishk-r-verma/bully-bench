@@ -1,9 +1,8 @@
-# emnlp-industry-track
-This is the anonymous github repo for EMNLP industry track submission
+# BullyBench: Youth & Experts-in-the-loop Framework for **Intrinsic** and **Extrinsic** Cyberbullying NLP Benchmarking 
 
 ## Data Availability
 
-This repository includes experiments based on data from  **Italian-to-English** and  **French-to-English** translation and **𝓓<sub>Gold</sub>** also  **LLM-generated dataset**. 
+This repository includes experiments based on data from  **Italian-to-English** [Verma et al 2023](https://www.cambridge.org/core/journals/natural-language-engineering/article/leveraging-machine-translation-for-crosslingual-finegrained-cyberbullying-classification-amongst-preadolescents/AC24445BCC1EBA67E9E9A92A247D8123) and  **French-to-English** translation and **𝓓<sub>Gold</sub>** - youth co-created dataset and  **LLM-generated dataset**. 
 
 ## Access Notice
 Due to ongoing review, both the **translations** and **𝓓<sub>Gold</sub>** with **LABELS** will be made available **after the review process is complete**.
@@ -29,7 +28,14 @@ We appreciate your understanding and patience.
     see hyperparameter yaml config table
   - **`utils.py`**
   - **`train_test.py`**
-
+    
+- **`llm-gen/`**
+  - **`README.md`**
+  - **`Error_analysis.py`**
+  - **`Similarity_check.py`**
+  - **`gen.py`**
+  - **`roleClassification.py`**
+    
 - **`supplementary_files/`**
   - Contains supporting files such as **annotation guides (PDFs)** and other documentation to assist in understanding and reproducing the evaluation process.
 
