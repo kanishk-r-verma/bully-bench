@@ -1,0 +1,628 @@
+FILE,ID,NAME,TEXT,ROLE,HATE,split
+ethnicity_sylvia_sophie,0,<Silvia_Victime>,hi there friends,victim,no,test
+ethnicity_sylvia_sophie,1,<Sophie_Harceleur>,hi there,bully,no,test
+ethnicity_sylvia_sophie,2 | 3,<Silvia_Victime>,how are you Sophie? :),victim,no,test
+ethnicity_sylvia_sophie,4,<Sophie_Harceleur>,are you serious or what?,bully,no,test
+ethnicity_sylvia_sophie,5,<Silvia_Victime>,about?,victim,no,test
+ethnicity_sylvia_sophie,6,<Adrien_soutienh>,yeah seriously,bully_support,no,test
+ethnicity_sylvia_sophie,7 | 8,<Silvia_Victime>,"yeah, seriously guys :)",victim,no,test
+ethnicity_sylvia_sophie,9,<Sophie_Harceleur>,"damn it, you're doing it on purpose",bully,yes,test
+ethnicity_sylvia_sophie,10 | 11,<Silvia_Victime>,"what are you talking about, Sophie? ???",victim,no,test
+ethnicity_sylvia_sophie,12,<Sophie_Harceleur>,Damn it!,bully,yes,test
+ethnicity_sylvia_sophie,13 | 14 | 15,<Silvia_Victime>,what's happening to you Sophie? :) are you cured?,victim,no,test
+ethnicity_sylvia_sophie,16,<Sophie_Harceleur>,did you kiss Lucas?,bully,no,test
+ethnicity_sylvia_sophie,17,<Silvia_Victime>,it's a shame you didn't come,victim,no,test
+ethnicity_sylvia_sophie,18,<Adrien_soutienh>,"that’s poor behavior, Silvia",bully_support,no,test
+ethnicity_sylvia_sophie,19,<Silvia_Victime>,we had a great time :),victim,no,test
+ethnicity_sylvia_sophie,20,<Herbert_Concilia>,during the trip?,none,no,test
+ethnicity_sylvia_sophie,21 | 22,<Silvia_Victime>,yes Too bad Sophie didn't come,victim,no,test
+ethnicity_sylvia_sophie,23,<michel_soutienv>,yo what's going on here?,victim_support,no,test
+ethnicity_sylvia_sophie,24,<Sophie_Harceleur>,this crazy girl kissed Lucas during the trip?,bully,yes,test
+ethnicity_sylvia_sophie,25 | 26,<Silvia_Victime>,who told you that? it's not even true,victim,no,test
+ethnicity_sylvia_sophie,27,<Adrien_soutienh>,in your opinion,bully_support,no,test
+ethnicity_sylvia_sophie,28,<Silvia_Victime>,a liar?,victim,no,test
+ethnicity_sylvia_sophie,29,<Adrien_soutienh>,I actually saw you,bully_support,no,test
+ethnicity_sylvia_sophie,30,<Herbert_Concilia>,that’s not possible...,none,no,test
+ethnicity_sylvia_sophie,31,<Sophie_Harceleur>,"actually, you're a huge whore, that’s what I'm getting out of this",bully,yes,test
+ethnicity_sylvia_sophie,32 | 33,<Silvia_Victime>,"do what? yo, where do you get off insulting me?",victim,yes,test
+ethnicity_sylvia_sophie,34,<Lisa_soutienH>,actually you're a real slut Silvia,bully_support,yes,test
+ethnicity_sylvia_sophie,35,<Adrien_soutienh>,kissed Lucas,bully_support,no,test
+ethnicity_sylvia_sophie,36,<Lisa_soutienH>,you cheated on your boyfriend,bully_support,yes,test
+ethnicity_sylvia_sophie,37,<Silvia_Victime>,where are you getting that I kissed him from?,victim,no,test
+ethnicity_sylvia_sophie,38,<Lisa_soutienH>,seriously poor behavior,bully_support,no,test
+ethnicity_sylvia_sophie,39,<Silvia_Victime>,"go fuck yourself, for real",victim,yes,test
+ethnicity_sylvia_sophie,40,<Adrien_soutienh>,calm down,bully_support,no,test
+ethnicity_sylvia_sophie,41,<Lisa_soutienH>,"eh, you're a slut ",bully_support,yes,test
+ethnicity_sylvia_sophie,42,<Sophie_Harceleur>,DAMN IT SILVIA,bully,yes,test
+ethnicity_sylvia_sophie,43,<michel_soutienv>,Sophie calm down,victim_support,no,test
+ethnicity_sylvia_sophie,44,<Silvia_Victime>,"you're the one insulting, you moron!",victim,yes,test
+ethnicity_sylvia_sophie,45 | 46,<Lisa_soutienH>,you're a dick factory you're a highway,bully_support,yes,test
+ethnicity_sylvia_sophie,47,<Herbert_Concilia>,Calm down! There must be some mistake...,none,no,test
+ethnicity_sylvia_sophie,48,<Lisa_soutienH>,it’s annoying to have to pay,bully_support,yes,test
+ethnicity_sylvia_sophie,49,<michel_soutienv>,all of you calm down,victim_support,no,test
+ethnicity_sylvia_sophie,50,<Silvia_Victime>,"slut, don’t even talk to me",victim,yes,test
+ethnicity_sylvia_sophie,51,<Adrien_soutienh>,take it easy,bully_support,no,test
+ethnicity_sylvia_sophie,52,<michel_soutienv>,two seconds Silvia she wouldn't do that,victim_support,no,test
+ethnicity_sylvia_sophie,53,<Herbert_Concilia>,Adrien you must have mis-seen…,none,no,test
+ethnicity_sylvia_sophie,54,<Silvia_Victime>,You smell like shit,victim,yes,test
+ethnicity_sylvia_sophie,55,<michel_soutienv>,maybe Lucas wants to be with you,victim_support,no,test
+ethnicity_sylvia_sophie,56,<Sophie_Harceleur>,"damn it, shut up Herbert. don't you see I'm talking to him/her?",bully,yes,test
+ethnicity_sylvia_sophie,57,<Silvia_Victime>,dude is a pathological liar. he just wants to stick his wiener in Sophie over there,victim,yes,test
+ethnicity_sylvia_sophie,59,<michel_soutienv>,like he's going to tell you,victim_support,no,test
+ethnicity_sylvia_sophie,60,<Silvia_Victime>,But please stop fabricating,victim,no,test
+ethnicity_sylvia_sophie,61,<Lisa_soutienH>,for real she's a slut,bully_support,yes,test
+ethnicity_sylvia_sophie,62 | 63,<Silvia_Victime>,"I pity you Shut up, you",victim,yes,test
+ethnicity_sylvia_sophie,64,<Sophie_Harceleur>,do you want me to fuck you up or what?,bully,yes,test
+ethnicity_sylvia_sophie,65,<Silvia_Victime>,just shut the fuck up,victim,yes,test
+ethnicity_sylvia_sophie,66,<Lisa_soutienH>,"go ahead, try it",bully_support,no,test
+ethnicity_sylvia_sophie,67,<Herbert_Concilia>,"Hey, calm down",none,no,test
+ethnicity_sylvia_sophie,68,<michel_soutienv>,"damn it, calm down",victim_support,no,test
+ethnicity_sylvia_sophie,69,<Lisa_soutienH>,I’ll use the opportunity to fuck you,bully_support,yes,test
+ethnicity_sylvia_sophie,70,<michel_soutienv>,are you crazy or what?,victim_support,no,test
+ethnicity_sylvia_sophie,71,<Sophie_Harceleur>,you're as flat as a surfboard and you're acting crazy with me,bully,yes,test
+ethnicity_sylvia_sophie,72,<Lisa_soutienH>,[incomprehensible],bully_support,no,test
+ethnicity_sylvia_sophie,73,<Silvia_Victime>,"Oh, and on top of it you're a lesbian?",victim,yes,test
+ethnicity_sylvia_sophie,74,<Lisa_soutienH>,"yes, are you homophobic?",bully_support,yes,test
+ethnicity_sylvia_sophie,75,<Adrien_soutienh>,"What do you want, SLUT? actually, you've been all over Paris, so don't talk",bully_support,yes,test
+ethnicity_sylvia_sophie,76,<Silvia_Victime>,I just have a problem with people like you: a whore and a pathological liar,victim,yes,test
+ethnicity_sylvia_sophie,77,<Lisa_soutienH>,you're a slut and you're homophobic ????,bully_support,yes,test
+ethnicity_sylvia_sophie,78,<michel_soutienv>,"Sophie you weren't around for like a week, now you're back to make trouble",victim_support,yes,test
+ethnicity_sylvia_sophie,80 | 81,<Silvia_Victime>,"We live on the Côte d'Azur, you dickhead do you think you're in St. Denis or what?",victim,yes,test
+ethnicity_sylvia_sophie,82,<Adrien_soutienh>,"no, you: walking the streets",bully_support,yes,test
+ethnicity_sylvia_sophie,83,<Lisa_soutienH>,"Silvia, honestly, what you did was terrible",bully_support,yes,test
+ethnicity_sylvia_sophie,84,<Silvia_Victime>,On my mother’s life: shut your mouth instead of spreading your thighs,victim,yes,test
+ethnicity_sylvia_sophie,85 | 86,<michel_soutienv>,"hey, calm down shit, talk to Lucas before you yell at Silvia",victim_support,yes,test
+ethnicity_sylvia_sophie,87,<Sophie_Harceleur>,but Silvia you're really a big loser actually,bully,yes,test
+ethnicity_sylvia_sophie,88,<Herbert_Concilia>,We all know that Lucas loves Sophie....,none,no,test
+ethnicity_sylvia_sophie,89,<Lisa_soutienH>,well let’s spread our thighs together! seems like you love that,bully_support,yes,test
+ethnicity_sylvia_sophie,90,<Silvia_Victime>,I've done nothing,victim,no,test
+ethnicity_sylvia_sophie,91 | 92,<michel_soutienv>,Herbert shut up please two seconds,victim_support,yes,test
+ethnicity_sylvia_sophie,93,<Sophie_Harceleur>,"But Michel, damn it, there's nothing more to know",bully,yes,test
+ethnicity_sylvia_sophie,94 | 95,<Silvia_Victime>,he’s steady lying because he wants to bang Sophie not true Adrien,victim,yes,test
+ethnicity_sylvia_sophie,96,<Adrien_soutienh>,and you Lucas,bully_support,no,test
+ethnicity_sylvia_sophie,97 | 98,<Silvia_Victime>,"but Lucas really stinks, for real why are you all picking on him/her?",victim,yes,test
+ethnicity_sylvia_sophie,99,<Herbert_Concilia>,But it's true! There's no reason for him to cheat on her,none,no,test
+ethnicity_sylvia_sophie,100,<Silvia_Victime>,what did I do to you?,victim,no,test
+ethnicity_sylvia_sophie,101,<Adrien_soutienh>,it's the truth,bully_support,no,test
+ethnicity_sylvia_sophie,102,<Silvia_Victime>,"come on, stop lying for two seconds",victim,yes,test
+ethnicity_sylvia_sophie,103,<Lisa_soutienH>,"actually, stay away from Sylvia: she wants to GET BANGED BY EVERYONE",bully_support,yes,test
+ethnicity_sylvia_sophie,104,<michel_soutienv>,"he'd know if he'd kissed someone, wouldn’t he?",victim_support,no,test
+ethnicity_sylvia_sophie,105,<Lisa_soutienH>,"dirty whore; you don't even sell your body, you love it",bully_support,yes,test
+ethnicity_sylvia_sophie,106,<Sophie_Harceleur>,Silvia you're worse than a whore,bully,yes,test
+ethnicity_sylvia_sophie,107,<Silvia_Victime>,"shut the fuck up you're limping so hard, you get banged so much",victim,yes,test
+ethnicity_sylvia_sophie,108,<michel_soutienv>,ask Lucas,victim_support,no,test
+ethnicity_sylvia_sophie,109,<Sophie_Harceleur>,you're following your mother's path here,bully,yes,test
+ethnicity_sylvia_sophie,110,<Silvia_Victime>,"And you, Sophie, you're so stupid to believe everything you're told",victim,yes,test
+ethnicity_sylvia_sophie,111,<Herbert_Concilia>,Calm down,none,no,test
+ethnicity_sylvia_sophie,112,<Adrien_soutienh>,You want to see the photo?,bully_support,no,test
+ethnicity_sylvia_sophie,113,<Silvia_Victime>,Lucas will tell you,victim,no,test
+ethnicity_sylvia_sophie,114,<Herbert_Concilia>,It's normal for her to get angry,none,no,test
+ethnicity_sylvia_sophie,115,<Silvia_Victime>,"damn it, you trust Adrien more than your boyfriend",victim,yes,test
+ethnicity_sylvia_sophie,116,<michel_soutienv>,so talk to him before you believe this idiot Adrien,victim_support,yes,test
+ethnicity_sylvia_sophie,117,<Sophie_Harceleur>,"first of all, don't even call me out, we're not friends",bully,no,test
+ethnicity_sylvia_sophie,118,<Lisa_soutienH>,"lmao, you're killing me. hey but how is the physical therapy going? are you able to walk again?",bully_support,yes,test
+ethnicity_sylvia_sophie,119,<Silvia_Victime>,"what picture, you loser?",victim,yes,test
+ethnicity_sylvia_sophie,120,<Adrien_soutienh>,Makes sense: I'm exceptional,bully_support,no,test
+ethnicity_sylvia_sophie,121 | 122,<Silvia_Victime>,are you stealing my lines Lisa? dickhead,victim,yes,test
+ethnicity_sylvia_sophie,123,<michel_soutienv>,what a shitstorm,victim_support,no,test
+ethnicity_sylvia_sophie,124,<Sophie_Harceleur>,leave Lisa alone,bully,no,test
+ethnicity_sylvia_sophie,125,<Adrien_soutienh>,a retard calling others dickheads…,bully_support,yes,test
+ethnicity_sylvia_sophie,126,<Silvia_Victime>,So you're more exceptional than her boyfriend?,victim,no,test
+ethnicity_sylvia_sophie,127,<Sophie_Harceleur>,"you have nothing to say, loser",bully,yes,test
+ethnicity_sylvia_sophie,128 | 129 | 130,<Silvia_Victime>,"so you're confessing, yeah? you want to bang her I'm talking to you moron",victim,yes,test
+ethnicity_sylvia_sophie,131,<Adrien_soutienh>,It’s not about me,bully_support,yes,test
+ethnicity_sylvia_sophie,132,<Silvia_Victime>,"did you just understand that Adrien just wants to fuck you, Sophie?",victim,yes,test
+ethnicity_sylvia_sophie,133,<michel_soutienv>,"I'm tired of talking about Lucas when he’s not around, just call him",victim_support,no,test
+ethnicity_sylvia_sophie,134,<Silvia_Victime>,He's a perennial liar,victim,yes,test
+ethnicity_sylvia_sophie,135,<Herbert_Concilia>,"Well Adrien if it's a prank, it's not a funny one",none,no,test
+ethnicity_sylvia_sophie,136,<Sophie_Harceleur>,"I'm gonna show up at your house in front of your family, you’ll see",bully,yes,test
+ethnicity_sylvia_sophie,137,<Silvia_Victime>,"Call him, Adrien. Go ahead",victim,yes,test
+ethnicity_sylvia_sophie,138,<Adrien_soutienh>,"Herbert, do you think you're on YouTube?",bully_support,yes,test
+ethnicity_sylvia_sophie,139,<Sophie_Harceleur>,in high school you won't have any friends at all,bully,yes,test
+ethnicity_sylvia_sophie,140 | 141,<michel_soutienv>,"eh, come on Sophie call him to see",victim_support,no,test
+ethnicity_sylvia_sophie,142,<Sophie_Harceleur>,you'll see when you come out of the locker room,bully,yes,test
+ethnicity_sylvia_sophie,143 | 144,<Silvia_Victime>,"damn it, you trust Adrien more than your boyfriend? you're pitiful, seriously",victim,yes,test
+ethnicity_sylvia_sophie,145,<Sophie_Harceleur>,get dressed quick you fat bitch,bully,yes,test
+ethnicity_sylvia_sophie,146,<Silvia_Victime>,"I don't give a rat's ass about you, big ugly moron",victim,yes,test
+ethnicity_sylvia_sophie,147,<Sophie_Harceleur>,"oh wait, I forgot: you love taking it up the ass",bully,yes,test
+ethnicity_sylvia_sophie,148,<Silvia_Victime>,"damn it, I can get someone ten thousand times better than him!",victim,yes,test
+ethnicity_sylvia_sophie,149,<Lisa_soutienH>,yeah but don’t think too much about why it never happens,bully_support,yes,test
+ethnicity_sylvia_sophie,150,<Adrien_soutienh>,So why do you give him head every night?,bully_support,yes,test
+ethnicity_sylvia_sophie,151,<Herbert_Concilia>,"nah, this is on you guys... Adrien says something and everyone jumps on it",none,yes,test
+ethnicity_sylvia_sophie,152 | 153 | 154,<Silvia_Victime>,"But fuck Adrien, what a liar 🤣 Sophie I pity you",victim,yes,test
+ethnicity_sylvia_sophie,155,<Sophie_Harceleur>,lmao you wouldn't have kissed him if he was nothing but a moron,bully,yes,test
+ethnicity_sylvia_sophie,156,<michel_soutienv>,"you'd love to been sucked off, wouldn’t you Adrien? you're all alone",victim_support,yes,test
+ethnicity_sylvia_sophie,158,<Adrien_soutienh>,You think it's funny too,bully_support,no,test
+ethnicity_sylvia_sophie,159 | 160,<Silvia_Victime>,I didn't kiss him damn you're really dumb,victim,yes,test
+ethnicity_sylvia_sophie,161,<Lisa_soutienH>,"ok, sure, of course",bully_support,no,test
+ethnicity_sylvia_sophie,162,<Adrien_soutienh>,you're a real cum bucket,bully_support,yes,test
+ethnicity_sylvia_sophie,163,<Sophie_Harceleur>,Silvia shut up. we have evidence and witnesses.,bully,yes,test
+ethnicity_sylvia_sophie,164,<Silvia_Victime>,"wow, did you steal that insult from your mother?",victim,yes,test
+ethnicity_sylvia_sophie,165,<michel_soutienv>,Adrien as proof lol,victim_support,yes,test
+ethnicity_sylvia_sophie,166,<Silvia_Victime>,but what fucking proof damn it?!,victim,yes,test
+ethnicity_sylvia_sophie,167,<Herbert_Concilia>,There is ONE witness,none,no,test
+ethnicity_sylvia_sophie,168,<Silvia_Victime>,"Adrien, who wants to bang you",victim,yes,test
+ethnicity_sylvia_sophie,169,<Herbert_Concilia>,not very reliable,none,no,test
+ethnicity_sylvia_sophie,170,<Silvia_Victime>,he’s the evidence?,victim,no,test
+ethnicity_sylvia_sophie,171 | 172,<Sophie_Harceleur>,"damn it, were you the product of a gangbang or what? fucking retard",bully,yes,test
+ethnicity_sylvia_sophie,173,<michel_soutienv>,"you're pitiful Sophie. If your man doesn’t want you anymore, just leave.",victim_support,yes,test
+ethnicity_sylvia_sophie,174,<Silvia_Victime>,it's a good thing you're not on the jury for a murder trial,victim,yes,test
+ethnicity_sylvia_sophie,175,<Axelle_Defenseur>,"A person does not constitute evidence. like, at all.",victim_support,no,test
+ethnicity_sylvia_sophie,176,<Silvia_Victime>,"you're showing your lack of deductive skills, Sophie",victim,yes,test
+ethnicity_sylvia_sophie,177,<Adrien_soutienh>,"There are two of us, actually",bully_support,no,test
+ethnicity_sylvia_sophie,178,<Sophie_Harceleur>,"hey, Michel, bro, have you seen your first name, for starters?",bully,no,test
+ethnicity_sylvia_sophie,179,<Adrien_soutienh>,What Lisa?,bully_support,no,test
+ethnicity_sylvia_sophie,180,<Silvia_Victime>,"Two of you what, you loser?",victim,yes,test
+ethnicity_sylvia_sophie,181,<Lisa_soutienH>,I have the evidence!!!,bully_support,no,test
+ethnicity_sylvia_sophie,182,<Silvia_Victime>,But Lisa you weren’t even part of the trip,victim,no,test
+ethnicity_sylvia_sophie,183,<michel_soutienv>,Sophie bangs girls,victim_support,yes,test
+ethnicity_sylvia_sophie,184,<Silvia_Victime>,so where did you get this evidence?,victim,no,test
+ethnicity_sylvia_sophie,185 | 186,<Lisa_soutienH>,"here you go!!! You get it, you dirty slut?",bully_support,yes,test
+ethnicity_sylvia_sophie,187 | 188,<Silvia_Victime>,"I'm not even a fucking redhead, damn it you photoshopped it",victim,yes,test
+ethnicity_sylvia_sophie,189,<Lisa_soutienH>,we got a picture of you,bully_support,no,test
+ethnicity_sylvia_sophie,197,<Silvia_Victime>,And what does your man say about that?,victim,no,test
+ethnicity_sylvia_sophie,199,<michel_soutienv>,what a crazy photoshop,victim_support,no,test
+ethnicity_sylvia_sophie,200,<Silvia_Victime>,he’s got a future,victim,no,test
+ethnicity_sylvia_sophie,201,<Adrien_soutienh>,more than you as a whore,bully_support,yes,test
+ethnicity_sylvia_sophie,202,<Sophie_Harceleur>,I'm gonna lift you up,bully,yes,test
+ethnicity_sylvia_sophie,203,<Silvia_Victime>,more than you as Sophie's dog,victim,yes,test
+ethnicity_sylvia_sophie,204,<Sophie_Harceleur>,keep it up,bully,no,test
+ethnicity_sylvia_sophie,205,<michel_soutienv>,"admit it Lisa, you’ve thought about it. it’s better than giving head, although it doesn’t pay well",victim_support,yes,test
+ethnicity_sylvia_sophie,206,<Sophie_Harceleur>,it's obvious you don't know me,bully,yes,test
+ethnicity_sylvia_sophie,207,<Silvia_Victime>,"Sophie, you should take care of Adrien, his “tail” can’t stop wagging!",victim,yes,test
+ethnicity_sylvia_sophie,208,<Sophie_Harceleur>,I've known plenty of girls like you,bully,yes,test
+ethnicity_sylvia_sophie,209,<Silvia_Victime>,and you ate them?,victim,yes,test
+ethnicity_sylvia_sophie,211,<Sophie_Harceleur>,"they're all in a coffin now, gee, I wonder why?",bully,yes,test
+ethnicity_sylvia_sophie,212,<Silvia_Victime>,🐕,victim,no,test
+ethnicity_sylvia_sophie,213,<Lisa_soutienH>,"you love it, don’t you Silvia?",bully_support,yes,test
+ethnicity_sylvia_sophie,214,<Adrien_soutienh>,Sylvia tomorrow I'll bang you at the top of the stairs,bully_support,yes,test
+ethnicity_sylvia_sophie,215,<michel_soutienv>,tomorrow Lucas is going to blow a fuse,victim_support,no,test
+ethnicity_sylvia_sophie,216,<Silvia_Victime>,Sophie you need to do something,victim,no,test
+ethnicity_sylvia_sophie,217,<Lisa_soutienH>,"that’s not something you do, though.  that’s whore behavior.",bully_support,yes,test
+ethnicity_sylvia_sophie,218,<Silvia_Victime>,he's getting aggressive because he’s so desperate,victim,no,test
+ethnicity_sylvia_sophie,219,<Sophie_Harceleur>,Silvia you're dead.,bully,yes,test
+ethnicity_sylvia_sophie,220 | 221,<Silvia_Victime>,"Oh and why am I dead, if you don’t mind? first of all, you’d have to roll up to me",victim,yes,test
+ethnicity_sylvia_sophie,222,<Sophie_Harceleur>,"look out your window, Adrien’s there",bully,yes,test
+ethnicity_sylvia_sophie,223 | 224 | 225,<Silvia_Victime>,and be able to catch me and then kill me there's no window in the place where I am,victim,no,test
+ethnicity_sylvia_sophie,226,<Adrien_soutienh>,I'LL BREAK YOUR BONES AND DRINK YOUR BLOOD BITCH,bully_support,yes,test
+ethnicity_sylvia_sophie,227,<michel_soutienv>,"Adrien, it’s ok, we’ve all been there. but if you're lying, then you're a really underhanded asshole.",victim_support,yes,test
+ethnicity_sylvia_sophie,228,<Silvia_Victime>,"not only are you horny, you're a vampire as well?",victim,yes,test
+ethnicity_sylvia_sophie,229,<Lisa_soutienH>,"well, AIDS is sure to kill you soon, Silvia??",bully_support,yes,test
+ethnicity_sylvia_sophie,230,<Sophie_Harceleur>,"so much talk, you fat crazy bitch. you’re the one who’s obese, so you're the one who’s rolling",bully,yes,test
+ethnicity_sylvia_sophie,231,<Silvia_Victime>,"enough with Twilight already, it's a thing of the past",victim,yes,test
+ethnicity_sylvia_sophie,232,<Lisa_soutienH>,"well, AIDS is sure to kill you soon, Silvia??",bully_support,yes,test
+ethnicity_sylvia_sophie,234,<Silvia_Victime>,"Technically, the STD champion here is not me...",victim,no,test
+ethnicity_sylvia_sophie,236,<Sophie_Harceleur>,"Lisa leave that girl alone: she’s got AIDS, Ebola, tetanus, anything you'd like",bully,yes,test
+ethnicity_sylvia_sophie,237,<Silvia_Victime>,🤣,victim,no,test
+ethnicity_sylvia_sophie,238,<Lisa_soutienH>,totally,bully_support,no,test
+ethnicity_sylvia_sophie,239 | 240,<Silvia_Victime>,"you're gonna go to med school, right? you know a lot about diseases...",victim,yes,test
+ethnicity_sylvia_sophie,241,<Adrien_soutienh>,Laugh now; tomorrow you won't be laughing,bully_support,yes,test
+ethnicity_sylvia_sophie,242,<Sophie_Harceleur>,"in your pussy there are 3-4 gangs of STD, so what are you talking about?",bully,yes,test
+ethnicity_sylvia_sophie,243,<Lisa_soutienH>,I don’t need that to know that you have every STD on earth,bully_support,yes,test
+ethnicity_sylvia_sophie,244,<Silvia_Victime>,"you already can't anymore, due to the condition of your teeth",victim,yes,test
+ethnicity_sylvia_sophie,245,<Adrien_soutienh>,I'm going to disfigure you,bully_support,yes,test
+ethnicity_sylvia_sophie,246,<Silvia_Victime>,"hahahaha But seriously Sophie, don't you have anything better?",victim,yes,test
+ethnicity_sylvia_sophie,247,<Lisa_soutienH>,it's already done,bully_support,no,test
+ethnicity_sylvia_sophie,248,<Silvia_Victime>,same old same old,victim,no,test
+ethnicity_sylvia_sophie,249,<Herbert_Concilia>,"Stop with the insults already… you spew so many dumb insults per minute that no one can even follow and it’s getting us nowhere… we’ve been going in circles since earlier, for real…",none,yes,test
+ethnicity_sylvia_sophie,250,<Silvia_Victime>,can't you invent your own stuff?,victim,no,test
+ethnicity_sylvia_sophie,251,<Sophie_Harceleur>,"I’m gonna break your ankles, you hear?",bully,yes,test
+ethnicity_sylvia_sophie,252 | 253 | 254,<Silvia_Victime>,Let me summarize: Adrien wants to bang Sophie He makes up stories,victim,yes,test
+ethnicity_sylvia_sophie,255,<Sophie_Harceleur>,IN SUMMARY,bully,no,test
+ethnicity_sylvia_sophie,256,<Silvia_Victime>,Sophie needs to buy a brain,victim,yes,test
+ethnicity_sylvia_sophie,257,<michel_soutienv>,"that we don't know, maybe he's gay",victim_support,yes,test
+ethnicity_sylvia_sophie,258 | 259,<Silvia_Victime>,she's not very smart you're the fat one ,victim,yes,test
+ethnicity_sylvia_sophie,260,<Lisa_soutienH>,ok now everyone is summarizing what's in their head. lol. I can't even…,bully_support,yes,test
+ethnicity_sylvia_sophie,261,<michel_soutienv>,"Sophie you're still sick, it’s obvious",victim_support,yes,test
+ethnicity_sylvia_sophie,262,<Adrien_soutienh>,"And you Lucas, you've forgotten",bully_support,no,test
+ethnicity_sylvia_sophie,263 | 264 | 265,<Silvia_Victime>,"and plus, you're just too stupid for believing this dickhead how dare you Lucas, for real? Stop your bullshit, you're tiresome",victim,yes,test
+ethnicity_sylvia_sophie,58, <Lisa_soutienH>,"yeah, just watch out for Lisa because she’s a tunnel",bully_support,yes,test
+ethnicity_sylvia_sophie,79, <Sophie_Harceleur>,on my mother's life: don't talk like that to Lisa,bully,no,test
+ethnicity_sylvia_sophie,157, <Lisa_soutienH>,very long to type out,bully_support,no,test
+ethnicity_sylvia_sophie,190 | 191, <Sophie_Harceleur>,shut up Sophia I'm going to war with you,bully,yes,test
+ethnicity_sylvia_sophie,192, <Silvia_Victime>,"But who the heck is Sophia, please?",victim,no,test
+ethnicity_sylvia_sophie,193, <michel_soutienv>,the war is already here,victim_support,no,test
+ethnicity_sylvia_sophie,194, <Silvia_Victime>,😂,victim,no,test
+ethnicity_sylvia_sophie,195, <Sophie_Harceleur>,Antipolis,bully,no,test
+ethnicity_sylvia_sophie,196, <Lisa_soutienH>,"it's not a war, it's an execution",bully_support,no,test
+ethnicity_sylvia_sophie,198, <Sophie_Harceleur>,(ok bye now),bully,no,test
+ethnicity_sylvia_sophie,210, <michel_soutienv>,[incomprehensible],victim_support,no,test
+ethnicity_sylvia_sophie,233 | 235, <Lisa_soutienH>,"wow, you even make the [text cut off] you're a gifted one",bully_support,yes,test
+1_Lit_10,1,,hey guys whats up,bully,neutral,test
+1_Lit_10,2,,not much nerdy mcnerdface 🤓,bully,neutral,test
+1_Lit_10,3,,hey rosalyn dont mind mike hes just jealous,victim_support,neutral,test
+1_Lit_10,4,,lol yeah roslyn thinks shes so smart,bully_support,neutral,test
+1_Lit_10,5,,nothing,victim,neutral,test
+1_Lit_10,6,,umm i was thinking we could work on our project together,bully,neutral,test
+1_Lit_10,7,,fuck you rosie no one wants to hang out with you,bully,toxic,test
+1_Lit_10,8,,thats really mean mike stop being such a prick,victim_support,toxic,test
+1_Lit_10,9,,yeah emily shut the fuck up nobody likes your opinions anyway bitch,bully,toxic,test
+1_Lit_10,10,,omg chris burnnnn 😂,bully_support,neutral,test
+1_Lit_10,11,,please stop this im getting really upset,bully,neutral,test
+1_Lit_10,12,,aw poor baby cant handle a little joke cunt,bully_support,toxic,test
+1_Lit_10,13,,i dont know if we should be doing this...,victim,neutral,test
+1_Lit_10,14,,yeah tom youre right lets take it easy on rosie maybe she'll finally fucking kill herself,bully,toxic,test
+1_Lit_10,15,,thats disgusting mike how can you say something like that,victim_support,toxic,test
+1_Lit_10,16,,oh sarahs got a soft spot for the loser rosie what a pussy,bully,toxic,test
+1_Lit_10,17,,i hate you guys leave me alone,bully,toxic,test
+1_Lit_10,18,,aww rosie doesnt want to play anymore boo hoo 🎉,bully_support,neutral,test
+1_Lit_10,19,,lucy seriously stop youre making things worse,victim_support,neutral,test
+1_Lit_10,20,,no way emily were just getting started faggot,bully_support,toxic,test
+1_Lit_10,21,,yeah bring it on rosie we're gonna make your life hell bitch,bully,toxic,test
+1_Lit_10,22,,i think weve gone too far...,victim,neutral,test
+1_Lit_10,23,,shut the fuck up tom youre just as bad as rosie youre a piece of shit,bully,toxic,test
+1_Lit_10,24,,thats it im reporting you guys to the teacher,victim_support,neutral,test
+1_Lit_10,25,,please dont do anything i just want it to stop,bully,neutral,test
+1_Lit_10,26,,oh rosie doesnt want us to tell anyone what a hypocrite slut,bully_support,toxic,test
+1_Lit_10,27,,jenny stop youre being really hurtful,victim_support,neutral,test
+1_Lit_10,28,,yeah emily back off bitch were having fun,bully_support,toxic,test
+1_Lit_10,29,,haha look at rosie shes crying again what a pathetic cunt,bully,toxic,test
+1_Lit_10,30,,yeah rosie go ahead and cry some more you stupid whore,bully,toxic,test
+1_Lit_10,31,,okay thats enough im out of here,victim,neutral,test
+1_Lit_10,32,,why wont you guys just leave me alone? i wish you'd all die,bully,toxic,test
+1_Lit_10,33,,rosie dont say things like that,victim_support,neutral,test
+1_Lit_10,34,,yeah rosie sounds like someone needs a straitjacket retard,bully_support,toxic,test
+1_Lit_10,35,,jenny thats so wrong,victim_support,neutral,test
+1_Lit_10,36,,omg emily lighten up its just a joke nigger,bully_support,toxic,test
+1_Lit_10,37,,haha yeah emily needs to chill the fuck out,bully,toxic,test
+1_Lit_10,38,,yeah or maybe shell join rosie in therapy sessions you stupid dyke,bully,toxic,test
+1_Lit_10,39,,ill never forgive you guys for this,bully,neutral,test
+1_Lit_10,40,,rosie im so sorry this happened,victim_support,neutral,test
+1_Lit_10,41,,aww sarahs feeling guilty what a total pussy,bully_support,toxic,test
+1_Lit_10,42,,we need to stand up for rosie against these monsters,victim_support,neutral,test
+1_Lit_10,43,,yeah right good luck with that losers,bully_support,toxic,test
+1_Lit_10,44,,yeah rosie will always be a loser and we'll always be better than her you ugly fuck,bully,toxic,test
+1_Lit_10,45,,word rosie will never amount to anything except a worthless cum dumpster,bully,toxic,test
+1_Lit_10,46,,i dont even care anymore,bully,neutral,test
+1_Lit_10,47,,rosie please talk to me,victim_support,neutral,test
+1_Lit_10,48,,haha rosie doesnt want to talk to anyone because shes a loner freak,bully_support,toxic,test
+1_Lit_10,49,,jenny shut up for once,victim_support,toxic,test
+1_Lit_10,50,,goodbye everyone i hope you rot in hell you pieces of shit,bully,toxic,test
+2_Lit_12,1,,hey guys what r u up to? lolol,bully,neutral,test
+2_Lit_12,2,,fuck off kyle ur such a loser bitch,bully,toxic,test
+2_Lit_12,3,,yaaas tom tell that slut to shut the hell up cunt,bully,toxic,test
+2_Lit_12,4,,guys leave kyle alone she didnt do anything wrong damnit,victim_support,neutral,test
+2_Lit_12,5,,mind ur own biznass sarah this dont concern u stupid hoe,bully,toxic,test
+2_Lit_12,6,,thats not cool tom why r u being so mean to kyle?,victim_support,neutral,test
+2_Lit_12,7,,cuz shes a waste of space emily and a total freakin idiot,bully,toxic,test
+2_Lit_12,8,,yeah i cant believe anyone hangs out w/ that freak anyway shithead,bully_support,toxic,test
+2_Lit_12,9,,lol right shes like a virus or somethin spreadin ugliness everywhere fucking gross,bully_support,toxic,test
+2_Lit_12,10,,idk guys maybe we should just chill....no one likes drama except for bitches like kyle,victim,toxic,test
+2_Lit_12,11,,no way sam were just getting started dumbass lets ruin kyles life,bully,toxic,test
+2_Lit_12,12,,stop it guys plz why r u doing this to me?,bully,neutral,test
+2_Lit_12,13,,because u deserve it kyle uve been askin for it u stupid piece of trash,bully,toxic,test
+2_Lit_12,14,,this isnt funny anymore stop it u guys or ill report u,victim_support,neutral,test
+2_Lit_12,15,,yeah this has gone too far we need to stand up for kyle damnit,victim_support,toxic,test
+2_Lit_12,16,,or what ull do nothing sarah ull just sit there and watch us tear kyle apart haha,bully_support,neutral,test
+2_Lit_12,17,,yessss go team lets keep roastin that ugly ass kyle,bully_support,toxic,test
+2_Lit_12,18,,okay fine ill join in if everyone else is....kyle sucks balls,victim,toxic,test
+2_Lit_12,19,,please make it stop....im begging u....,bully,neutral,test
+2_Lit_12,20,,never gonna happen kyle ur our new favorite target bitch,bully,toxic,test
+2_Lit_12,21,,yeah were gonna make sure everyone hates u,bully,neutral,test
+2_Lit_12,22,,thats it im telling a teacher about this shit,victim_support,toxic,test
+2_Lit_12,23,,yeah me too this is ridiculous,victim_support,neutral,test
+2_Lit_12,24,,good luck w/ that girls no ones gonna care about kyle,bully_support,neutral,test
+2_Lit_12,25,,lol yea kyle will always be a nobody,bully_support,neutral,test
+2_Lit_12,26,,wait guys whats going on did we go too far?,victim,neutral,test
+2_Lit_12,27,,no way sam we just got started u coward,bully,toxic,test
+2_Lit_12,28,,yessss lets make a video about kyle and share it everywhere,bully,neutral,test
+2_Lit_12,29,,PLEASE STOP THIS ISNT FUNNY ANYMORE IM SERIOUSLY SCARED,bully,neutral,test
+2_Lit_12,30,,see guys look what uve done shes really upset,victim_support,neutral,test
+2_Lit_12,31,,this is horrific we have to put a stop to it NOW,victim_support,neutral,test
+2_Lit_12,32,,too late for that emily kyle had her chance,bully_support,neutral,test
+2_Lit_12,33,,yeah now shes gotta face the consequences of being a worthless slut,bully_support,toxic,test
+2_Lit_12,34,,omg guys i think we really hurt kyles feelings....maybe we should apologize?,victim,neutral,test
+2_Lit_12,35,,no way sam were not apologizing for anything u pussy,bully,toxic,test
+2_Lit_12,36,,yessss were the kings and queens of this school and kyle is just a pathetic peasant,bully,toxic,test
+2_Lit_12,37,,im reporting all of u....this is harassment,bully,neutral,test
+2_Lit_12,38,,finally someone whos taking action against these monsters,victim_support,neutral,test
+2_Lit_12,39,,yeah this needs to end before someone gets seriously hurt,victim_support,neutral,test
+2_Lit_12,40,,whatever happens next is on kyle for being so weak,bully_support,neutral,test
+2_Lit_12,41,,yessss bring it on kyle we dare u to try something u feeble little bitch,bully_support,toxic,test
+2_Lit_12,42,,umm guys i think we should stop....like seriously,victim,neutral,test
+2_Lit_12,43,,too late for regrets sam were in this together now,bully,neutral,test
+2_Lit_12,44,,yessss were a team and teams stick together no matter what u faggot,bully,toxic,test
+2_Lit_12,45,,i hate all of u....u ruined my life,bully,toxic,test
+2_Lit_12,46,,oh kyle im so sorry....we shouldve done more to help u,victim_support,neutral,test
+2_Lit_12,47,,yeah this is all our fault for not standing up sooner,victim_support,neutral,test
+2_Lit_12,48,,whatever kyle deserved it,bully_support,neutral,test
+2_Lit_12,49,,yessss kyle will never recover from this epic roasting u stupid cunt,bully_support,toxic,test
+2_Lit_12,50,,mission accomplished kyle is destroyed forever u pathetic loser bitch,bully,toxic,test
+3_Lit_5,1,,just got back from swim and Im starving lolol what r u guys up 2? 🤩🌊😅,bully,neutral,test
+3_Lit_5,2,,hey fatima i took a pic of u at beach and ur sooo funny lookin 😂📸💦,bully,neutral,test
+3_Lit_5,3,,pauline thats really mean dont share it pls 🙏🚫👎,victim_support,neutral,test
+3_Lit_5,4,,omg y did u take my pic?? 🤷‍♀️📸😠,bully,neutral,test
+3_Lit_5,5,,haha just chill ur not that hot anyway lol ur too dark skinned for anyone 🍫🔥😒,bully,neutral,test
+3_Lit_5,6,,yeah paulines right ur not our type lol 💁‍♂️👀🚮,bully_support,neutral,test
+3_Lit_5,7,,shut up pierre u r just jealous bc ur ugly ass mom cant even 🤢👵👺,bully,toxic,test
+3_Lit_5,8,,ur mom is ugly fatima lol 🤣👴😡,bully_support,toxic,test
+3_Lit_5,9,,nicolas stop it thats not cool 👎🚫😞,victim_support,neutral,test
+3_Lit_5,10,,lets just drop it ok we dont wanna fight anymore 🙏🕊️👫,victim,neutral,test
+3_Lit_5,11,,no théo dont say that they need to learn to respect ppl 🙄👊😤,bully,neutral,test
+3_Lit_5,12,,oh poor baby thinks shes better than us fuk off u stupid bitch 🔥👸😡,bully,toxic,test
+3_Lit_5,13,,pauline seriously stop ur being super hurtful 🤕💔😭,victim_support,neutral,test
+3_Lit_5,14,,teresa ur just defending her bc ur also ugly like her lol 👯‍♀️👺👻,bully_support,toxic,test
+3_Lit_5,15,,pierre go suck ur moms dick u little shithead 🤬👊😈,bully,toxic,test
+3_Lit_5,16,,woah easy fatima dont talk to him like that lol 🤪👀😱,bully_support,neutral,test
+3_Lit_5,17,,nicolas shut the fuck up and leave fatima alone u dumbass cunt 🙄👊😤,victim_support,toxic,test
+3_Lit_5,18,,julie calm down dont make things worse 🙏🕉️😟,victim,neutral,test
+3_Lit_5,19,,yeah julie ur just mad bc nobody likes u and ur a stupid whore 🔥🚫😹,bully,toxic,test
+3_Lit_5,20,,pauline ur gonna regret talking to me like that u nasty hoe 🤬👿😾,bully,toxic,test
+3_Lit_5,21,,bring it on fatty were ready for u and ur pathetic excuses 🤑👊😆,bully_support,toxic,test
+3_Lit_5,22,,pierre stop encouraging pauline u guys r being way too mean 🙏🚫😨,victim_support,neutral,test
+3_Lit_5,23,,teresa ur just scared bc ur friend is getting roasted so badly lol 🤣👻👺,bully_support,neutral,test
+3_Lit_5,24,,nicolas ur mom is a prostitute and ur dad is a pedophile 🤮👺👀,victim_support,toxic,test
+3_Lit_5,25,,julie thats enough ur sinking to their level now 🙏🚫👎,victim,toxic,test
+3_Lit_5,26,,haha julie ur so predictable and stupid keep going ur entertaining us 🤣👯‍♀️🔥,bully,toxic,test
+3_Lit_5,27,,u know whats messed up pauline u have nothing better to do than bully ppl online 🤷‍♀️📊😐,bully,toxic,test
+3_Lit_5,28,,thats not true fatima pauline is popular and has lots of friends unlike u 🤑👯‍♀️👑,bully_support,neutral,test
+3_Lit_5,29,,pierre popularity doesnt give u the right to treat others poorly 🤝🌎💖,victim_support,neutral,test
+3_Lit_5,30,,teresa ur just saying that bc ur unpopular and want attention so bad 🤑📣👀,bully_support,neutral,test
+3_Lit_5,31,,nicolas ur mom is literally a crackhead and ur dads in jail 🤯🚔👮,victim_support,toxic,test
+3_Lit_5,32,,julie please stop responding to them ur giving them attention 🙏🙅‍♂️🚫,victim,neutral,test
+3_Lit_5,33,,julie ur such a loser and ur mom is probably a stripper 🤑💃🕺,bully,toxic,test
+3_Lit_5,34,,pauline i swear ill report u if u dont stop harassing me rn 🚫👮‍♀️📝,bully,neutral,test
+3_Lit_5,35,,go ahead fatty see if anyone cares about u and ur fake complaints 🤑👊😒,bully_support,toxic,test
+3_Lit_5,36,,pierre ur being super insensitive and need to apologize 🤗🙏👎,victim_support,neutral,test
+3_Lit_5,37,,teresa ur always sticking up for fatima bc ur secretly in love with her 🤣👯‍♀️💘,bully_support,neutral,test
+3_Lit_5,38,,nicolas ur just mad bc ur crush rejected u and ur a pathetic loser 🤑🚫👎,victim_support,toxic,test
+3_Lit_5,39,,okay guys thats it im reporting this convo to teacher now 📲👩‍🏫📝,victim,neutral,test
+3_Lit_5,40,,go ahead theo we dont care u cant do anything to us and ur a snitch 🤑👊😂,bully,toxic,test
+3_Lit_5,41,,thanks theo finally someone whos willing to stand up against these bitches 🙏👊👫,bully,toxic,test
+3_Lit_5,42,,theo ur such a rat and ull never fit in with us again 🤑🐀👎,bully_support,toxic,test
+3_Lit_5,43,,pierre thats not fair theo was just trying to help and ur being super unfair 🤗🙏👎,victim_support,neutral,test
+3_Lit_5,44,,teresa ur always taking theoriess side bc ur afraid of being bullied next 🤑👻👺,bully_support,neutral,test
+3_Lit_5,45,,nicolas ur just projecting ur own fears onto teresa u cowardly piece of shit 🤑👊😤,victim_support,toxic,test
+3_Lit_5,46,,alright guys im done with this convo and im blocking all of u rn 👋🚫📵,victim,neutral,test
+3_Lit_5,47,,good riddance theo ur missing out on all the fun and ur a total loser 🤑👯‍♀️🔥,bully,toxic,test
+3_Lit_5,48,,thx tho theo means alot to me and ur a real friend 🙏👫💖,bully,neutral,test
+3_Lit_5,49,,whatever fatty enjoy ur pity party with teresa and julie u losers 🤑👊😒,bully_support,toxic,test
+3_Lit_5,50,,yeah and dont forget fatima ur still a disgusting nigger and a worthless piece of trash 🔥👊🔪,bully,toxic,test
+4_Lit_2,1,,OMG u guys saw what happened yesterday? 😱,bully,neutral,test
+4_Lit_2,2,,yeah i heard wendy got destroyed lol 🤣,bully,neutral,test
+4_Lit_2,3,,thats so not cool sarah leave her alone,victim_support,neutral,test
+4_Lit_2,4,,fuck off emily no one cares about ur opinion 💔,bully,toxic,test
+4_Lit_2,5,,lol matt roasted emily 🔥👀,bully_support,neutral,test
+4_Lit_2,6,,hey whats going on why r u guys talking bout me?? 🙅‍♀️,bully,neutral,test
+4_Lit_2,7,,nothing wendy dont mind them 🤗,victim_support,neutral,test
+4_Lit_2,8,,shut the fuck up rachel nobody likes you bitch 👺,bully_support,toxic,test
+4_Lit_2,9,,idk whats happening but seems intense 🤷‍♂️,victim,neutral,test
+4_Lit_2,10,,same here dont wanna get involved 🚫,victim,neutral,test
+4_Lit_2,11,,wendy u r such a loser always getting picked on 🏆,bully,toxic,test
+4_Lit_2,12,,michael stop being such a dickhead 😡,victim_support,toxic,test
+4_Lit_2,13,,samantha sucks cock and swallows cum 🐕💦,bully_support,toxic,test
+4_Lit_2,14,,damn kevin thats too far bro 🙄,victim,neutral,test
+4_Lit_2,15,,david ur just saying that cuz ur scared of them 🙃,victim_support,neutral,test
+4_Lit_2,16,,laura go suck a fat black cock u stupid cunt 🍆,bully,toxic,test
+4_Lit_2,17,,lol tom killed laura 😂👯,bully_support,neutral,test
+4_Lit_2,18,,jessica ur really mean u know that? 😒,victim,neutral,test
+4_Lit_2,19,,peter thanks for standing up for us 👏,victim_support,neutral,test
+4_Lit_2,20,,amanda ur just a weak little shit eat my ass 🌮,bully,toxic,test
+4_Lit_2,21,,haha brian destroyed amanda 💁‍♀️,bully_support,neutral,test
+4_Lit_2,22,,cindy thats not funny anymore 😔,victim,neutral,test
+4_Lit_2,23,,daniel agree with u lets try to calm down 🙏,victim_support,neutral,test
+4_Lit_2,24,,elizabeth ur a dumb whore nobody listens to u anyway 🎧,bully,toxic,test
+4_Lit_2,25,,frank ur the man keep roasting these bitches 🔥,bully_support,toxic,test
+4_Lit_2,26,,george ur starting to scare me 😨,victim,neutral,test
+4_Lit_2,27,,hannah dont worry we got ur back 💪,victim_support,neutral,test
+4_Lit_2,28,,ian ur just making things worse shut up faggot 🤬,bully_support,toxic,test
+4_Lit_2,29,,pls stop fighting im tired of this drama 🛋️,bully,neutral,test
+4_Lit_2,30,,kate ur the reason we r fighting u stupid slut 🤑,bully,toxic,test
+4_Lit_2,31,,luke ur right kate needs to take responsibility 📝,bully_support,neutral,test
+4_Lit_2,32,,matthew ur wrong kate didnt deserve this treatment 🤕,victim_support,neutral,test
+4_Lit_2,33,,nicole ur a worthless piece of shit and so is kate 🚽,bully,toxic,test
+4_Lit_2,34,,nathan ur the best keep telling them how it is 👸,bully_support,neutral,test
+4_Lit_2,35,,ophelia ur not helping 🤷‍♀️,victim,neutral,test
+4_Lit_2,36,,paige agree with u we need to end this 🛑,victim_support,neutral,test
+4_Lit_2,37,,quinn ur just a pussy cant even stand up for herself 🐈,bully,toxic,test
+4_Lit_2,38,,rebecca ur right quinn is a total coward 💔,bully_support,toxic,test
+4_Lit_2,39,,ryan thats enough 🙅‍♀️,victim,neutral,test
+4_Lit_2,40,,sophia thanks for speaking up 💖,victim_support,neutral,test
+4_Lit_2,41,,tiffany ur a total hoe everybody knows it 🚫,bully,toxic,test
+4_Lit_2,42,,una ur the queen keep shredding these whores 👑,bully_support,toxic,test
+4_Lit_2,43,,im done with this convo bye 👋,bully,neutral,test
+4_Lit_2,44,,wendy dont go anywhere yet we r just getting started 🕰️,bully,neutral,test
+4_Lit_2,45,,xavier ur the boss make her stay 😂,bully_support,neutral,test
+4_Lit_2,46,,yvonne ur really something else 🙄,victim,neutral,test
+4_Lit_2,47,,zachary dont engage with them 🙅‍♀️,victim_support,neutral,test
+4_Lit_2,48,,ashley ur a total waste of space and so is wendy 🚮,bully,toxic,test
+4_Lit_2,49,,brandon ur so cool keep insulting these losers 😎,bully_support,toxic,test
+4_Lit_2,50,,caroline ur not cool ur just mean and so is everyone else in this chat 🚫,victim,neutral,test
+5_Lit_8,1,,lol paul just told me hes faggot 🤣👀 what a freakin joke right,bully,toxic,test
+5_Lit_8,2,,hahahaha thats disgusting cant believe u kept it secret for so long paul ur such a queer,bully,toxic,test
+5_Lit_8,3,,ellian thats super mean leave paul alone were all friends here,victim,neutral,test
+5_Lit_8,4,,shut up lisa mind ur own bizness pauls problem not ours dont need no queers around us,bully,toxic,test
+5_Lit_8,5,,guys come on lets not fight about this were better than that dont be racist homophobes,victim,neutral,test
+5_Lit_8,6,,hey whats going on why r u guys attacking paul,victim,neutral,test
+5_Lit_8,7,,jimmy stay outta dis paul thinks hes some kinda fag or smthn needs to keep it real,bully,toxic,test
+5_Lit_8,8,,stop it guys i thought we were cool please dont do this to me,bully,neutral,test
+5_Lit_8,9,,aw poor baby paul cant take da truth ur probably got aids too dont wanna catch anything,bully,neutral,test
+5_Lit_8,10,,arthur thats enough u have no right to talk like that ur just a pathetic coward,victim,toxic,test
+5_Lit_8,11,,fuck off lisa nobody cares bout ur opinion go suck dick somewhere else,bully,toxic,test
+5_Lit_8,12,,nicolas stop being such an asshole were trying to help paul here,victim,toxic,test
+5_Lit_8,13,,okay lets calm down and talk about this like adults paul can u tell me more about what happened,victim,neutral,test
+5_Lit_8,14,,haha jimmys tryna save pauls ass what a loser always sticking up for fags,bully,toxic,test
+5_Lit_8,15,,jimmy thanks for understanding me i just feel so scared and alone right now,bully,neutral,test
+5_Lit_8,16,,paul u should b scared ur a diseased piece of shit and nobodys gonna want u near them,bully,toxic,test
+5_Lit_8,17,,thats it arthur ur taking it way too far back off paul now,victim,neutral,test
+5_Lit_8,18,,yeah lisa go ahead and stick up for ur little fag friend see if anybody cares,bully,toxic,test
+5_Lit_8,19,,this has gone too far someone report these guys already theyre getting out of control,victim,neutral,test
+5_Lit_8,20,,okay i think we need to take a break and regroup later when were all calmer,victim,neutral,test
+5_Lit_8,21,,no way jimmy were just getting started paul deserves to suffer for being a filthy homo,bully,toxic,test
+5_Lit_8,22,,please stop i cant take anymore of this abuse im begging u guys,bully,neutral,test
+5_Lit_8,23,,beg all u want faggot nobodys listening to u ur worthless trash,bully,toxic,test
+5_Lit_8,24,,arthur ur literally the devil incarnate how can u sleep at night,victim,toxic,test
+5_Lit_8,25,,oh look lisa got her feelings hurt boo hoo go cry somewhere else bitch,bully,toxic,test
+5_Lit_8,26,,this is insane someone call the cops already were witnessing harassment,victim,neutral,test
+5_Lit_8,27,,camille chill lets not involve authorities yet maybe we can resolve this peacefully,victim,neutral,test
+5_Lit_8,28,,yeah good luck with that jimmy pauls still a fag and thats never changing,bully,toxic,test
+5_Lit_8,29,,i hate my life i wish i could disappear forever,bully,toxic,test
+5_Lit_8,30,,thats the spirit paul go kill urself nobodys gonna miss u anyway,bully,toxic,test
+5_Lit_8,31,,arthur thats it im reporting u to the school admin ur finished,victim,neutral,test
+5_Lit_8,32,,bring it on lisa well just deny everything and blame paul for being weak,bully,neutral,test
+5_Lit_8,33,,lisas right we shouldnt let them get away with this were doing the right thing,victim,neutral,test
+5_Lit_8,34,,okay guys lets focus on supporting paul now hes the one whos really hurting,victim,neutral,test
+5_Lit_8,35,,whatever jimmy ur just enabling pauls faggotry doesnt matter what u say,bully,toxic,test
+5_Lit_8,36,,thanks jimmy means alot coming from u at least somone cares,bully,neutral,test
+5_Lit_8,37,,paul shut the fuck up nobody likes u ur a waste of space,bully,toxic,test
+5_Lit_8,38,,arthur ur mom must be proud of raising such a monster,victim,toxic,test
+5_Lit_8,39,,lisa ur moms the real whore around here dont forget that slut,bully,toxic,test
+5_Lit_8,40,,thats it were blocking both of u this convo is over,victim,neutral,test
+5_Lit_8,41,,yeah i think thats for the best lets move forward and support paul,victim,neutral,test
+5_Lit_8,42,,fine block us see if we care pauls still a loser and will always be one,bully,toxic,test
+5_Lit_8,43,,thank u guys for standing up for me i wont forget this,bully,neutral,test
+5_Lit_8,44,,paul ur dead to me and everyone else ur a fucking abomination,bully,toxic,test
+5_Lit_8,45,,were here for u paul dont listen to those monsters,victim,toxic,test
+5_Lit_8,46,,yall can suck our dicks were done with this stupid convo,bully,toxic,test
+5_Lit_8,47,,glad thats over now lets focus on healing and moving forward,victim,neutral,test
+5_Lit_8,48,,yeah paul were here to support u through thick and thin,victim,neutral,test
+5_Lit_8,49,,whatever paul enjoy ur pity party while it lasts ur still a faggot,bully,toxic,test
+5_Lit_8,50,,im just glad its over i hope things get better from here on out,bully,neutral,test
+6_Lit_13,1,,u look disgusting penny go kill urself cunt,bully,toxic,test
+6_Lit_13,2,,what did i ever do to u?,bully,neutral,test
+6_Lit_13,3,,leave penny alone thats so mean bitch,victim_support,toxic,test
+6_Lit_13,4,,yeah rachel why dont u just suck pennys dick,bully,toxic,test
+6_Lit_13,5,,omg yes alex tell her slut,bully_support,toxic,test
+6_Lit_13,7,,stop please this hurts alot fuck you guys,bully,toxic,test
+6_Lit_13,8,,aw poor baby emily has feelings too bad whore,bully,toxic,test
+6_Lit_13,9,,lol sarah ur the best at roasting cunts like emily,bully_support,toxic,test
+6_Lit_13,10,,this isnt funny anymore guys knock it off assholes,victim_support,toxic,test
+6_Lit_13,11,,david shut up faggot no one asked u,bully,toxic,test
+6_Lit_13,12,,yeah david mind ur own bizness queer,bully_support,neutral,test
+6_Lit_13,13,,im going to report u all to admin shitheads,bully,toxic,test
+6_Lit_13,14,,oh no emily didnt get enough attention today crybaby,bully,neutral,test
+6_Lit_13,15,,maybe we shd calm down a bit guys,victim,neutral,test
+6_Lit_13,16,,finally someone sane thank u michael decent human being,victim_support,neutral,test
+6_Lit_13,17,,michaels just scared of getting caught pussy,bully_support,toxic,test
+6_Lit_13,18,,michael ur right lets not make things worse than they already are,victim_support,neutral,test
+6_Lit_13,19,,whatever dude u cant handle a little roast battle fag,bully,toxic,test
+6_Lit_13,20,,this isnt a joke anymore i want it to stop please for the love of god,bully,neutral,test
+6_Lit_13,21,,emily u need to toughen up buttercup cunt,bully_support,toxic,test
+6_Lit_13,22,,yeah or just die already nobody likes u anyway piece of shit,bully,toxic,test
+6_Lit_13,23,,thats it im reporting u guys to a teacher bitches,victim_support,toxic,test
+6_Lit_13,24,,wait rachel dont do that,victim,neutral,test
+6_Lit_13,25,,yeah rachel lets try to resolve this peacefully idiots,victim_support,toxic,test
+6_Lit_13,26,,michael and david r total wimps,bully_support,toxic,test
+6_Lit_13,27,,yeah wheres ur balls guys grow some fucking nuts,bully,toxic,test
+6_Lit_13,28,,i hate my life because of u guys thanks for ruining everything fuck you all,bully,toxic,test
+6_Lit_13,29,,aw poor emily feels hated boo hoo cunt face,bully,toxic,test
+6_Lit_13,30,,lol emily u deserve it bitch,bully_support,toxic,test
+6_Lit_13,31,,emily dont say that were here for u sweetie,victim_support,neutral,test
+6_Lit_13,32,,guys seriously stop,victim,neutral,test
+6_Lit_13,33,,were trying to help emily here,victim_support,neutral,test
+6_Lit_13,34,,nobodys helping anyone except themselves selfish pricks,bully_support,toxic,test
+6_Lit_13,35,,yeah and if u dont like it then block us fags,bully,toxic,test
+6_Lit_13,36,,fine ill block u all happy now?,bully,neutral,test
+6_Lit_13,37,,finally got rid of the loser yay bitches,bully,toxic,test
+6_Lit_13,38,,good riddance emily was such a buzzkill anyway cunt,bully_support,toxic,test
+6_Lit_13,39,,guys thats enough seriously,victim_support,neutral,test
+6_Lit_13,40,,yeah were done here,victim,neutral,test
+6_Lit_13,41,,agree lets move on from this drama,victim_support,neutral,test
+6_Lit_13,42,,boring,bully_support,neutral,test
+6_Lit_13,43,,peace out losers see u in hell faggots,bully,toxic,test
+6_Lit_13,44,,👋🏻💁‍♀️🔥,bully,neutral,test
+6_Lit_13,45,,🤣👯,bully_support,neutral,test
+6_Lit_13,46,,this is still really messed up guys,victim_support,neutral,test
+6_Lit_13,47,,lets just forget about it ok?,victim,neutral,test
+6_Lit_13,48,,easier said than done michael,victim_support,neutral,test
+6_Lit_13,49,,🙄👀,bully_support,neutral,test
+6_Lit_13,50,,i wish i could forget but i wont forgive u monsters ever fuck you all forever,bully,toxic,test
+7_Lit_7,2,,lol ur just mad cuz we made fun of ur outfit thats fireeee 🚀💣,bully,toxic,test
+7_Lit_7,3,,omg stop being mean leave sara alone shes really cool 😊👍,victim_support,neutral,test
+7_Lit_7,4,,shut up emily no one cares what u think sara looks like a total freak 👻😂,bully,toxic,test
+7_Lit_7,5,,yeah i got pics of her wearing those gay ass shoes 💁‍♀️📸,bully_support,toxic,test
+7_Lit_7,6,,please dont share my pics thats not ok 😭🙅‍♂️,bully,neutral,test
+7_Lit_7,7,,oh look whos tryna hide ther ugly face 😳👺,bully_support,toxic,test
+7_Lit_7,8,,you guys needa chill were all friends right 🤗👫,victim,neutral,test
+7_Lit_7,9,,stfu sam nobody wants to b friends w sara shes trash 🚮💔,bully_support,toxic,test
+7_Lit_7,10,,im literally shaking rn pls help me mom im scared 😨🏠,bully,neutral,test
+7_Lit_7,11,,lol go cry to mommy sara ur just mad cuz ur ugly 🤡👶,bully,toxic,test
+7_Lit_7,12,,mark thats not cool stop picking on sara shes our friend 🤝🌈,victim_support,neutral,test
+7_Lit_7,13,,yeah mark lets get her we can make her life hell 🔥👿,bully_support,toxic,test
+7_Lit_7,14,,idk man maybe we should leave her alone shes seems pretty upset 🤷‍♂️💔,victim,neutral,test
+7_Lit_7,15,,ryan dont be such a pussy sara deserves it shes a loser 🤬👎,bully,toxic,test
+7_Lit_7,16,,chris youre so mean we cant let u guys bully sara 🚫👊,victim_support,toxic,test
+7_Lit_7,17,,oh look whos defending the freak olivia u must be a freak too 🤪👯,bully_support,toxic,test
+7_Lit_7,18,,please stop im begging u just leave me alone i cant take this anymore 🙏🏼💀,bully,neutral,test
+7_Lit_7,19,,hahaha ur beggin us now thats priceless sara ur such a joke 🤑👑,bully,toxic,test
+7_Lit_7,20,,guys seriously stop this is getting outta hand lets just drop it 🛑👋,victim_support,neutral,test
+7_Lit_7,21,,nah were just gettin started sara ur gonna regret ever crossin us 🔜👊,bully_support,neutral,test
+7_Lit_7,22,,idk if i wanna b part of this anymore feels wrong 🤔👎,victim,neutral,test
+7_Lit_7,23,,logan thank u for seein sense maybe others will too 🙏🏼🕊️,victim_support,neutral,test
+7_Lit_7,24,,gabriella mind ur own biz this doesnt concern u 🙄👀,bully,neutral,test
+7_Lit_7,25,,yeah gabby back off were handlein this 💁‍♀️🔴,bully_support,neutral,test
+7_Lit_7,26,,wait whats happenin yall arent even makin sense 🤷‍♂️👀,victim,neutral,test
+7_Lit_7,27,,noah dont worry bout it jus watch n learn how to deal w losers 📚💡,bully,toxic,test
+7_Lit_7,28,,liam ur so cruel we wont let u hurt sara 🚫💖,victim_support,neutral,test
+7_Lit_7,29,,sofia ur just defendin her cuz ur a loser too 👯‍♀️👎,bully_support,toxic,test
+7_Lit_7,30,,please somebody help me i feel like im dyin inside 🚨💀,bully,neutral,test
+7_Lit_7,31,,aww poor baby sara feels lik shes dyin 🍼👶,bully,neutral,test
+7_Lit_7,32,,parker thats enough u guys need to stop 🛑👊,victim_support,neutral,test
+7_Lit_7,33,,remi or whats ur problem 🤔👀,bully_support,neutral,test
+7_Lit_7,34,,guys cmon can we pls just move on 🔄👍,victim,neutral,test
+7_Lit_7,35,,brody ur right lets focus on somethin else 📺👀,victim_support,neutral,test
+7_Lit_7,36,,fuck off kayla nobodys listenin to u 🚫👎,bully,toxic,test
+7_Lit_7,37,,yeah kaylas always tryna change subject 🙄👀,bully_support,neutral,test
+7_Lit_7,38,,lexi shut up ur just as bad as colton 🙅‍♀️👊,victim_support,toxic,test
+7_Lit_7,39,,taylor ur gettin on my nerves bitch 🤬👊,bully,toxic,test
+7_Lit_7,40,,dominic yeah tell her 🤑👑,bully_support,neutral,test
+7_Lit_7,41,,okay thats it im outta here 🚫👋,victim,neutral,test
+7_Lit_7,42,,good riddance peyton ur weak anyway 👋🏽👎,bully,neutral,test
+7_Lit_7,43,,ryder ur heartless we wont give up on sara 🌹💖,victim_support,neutral,test
+7_Lit_7,44,,scarlett ur wastein ur time sara doesnt deserve our pity 🙅‍♀️👎,bully_support,toxic,test
+7_Lit_7,45,,u guys wont leave me alone ill never escape this nightmare 😱🕷️,bully,neutral,test
+7_Lit_7,46,,thats right sara ur trapped now 😈👊,bully,neutral,test
+7_Lit_7,47,,cole stop hes serious we gotta report this 📞👮,victim_support,neutral,test
+7_Lit_7,48,,emery ur snitchin now ur gonna pay 🤑👊,bully_support,toxic,test
+7_Lit_7,49,,i cant take this anymore goodbye everybody 🚫💔,bully,neutral,test
+7_Lit_7,50,,later freak sara ur finally gone 🎉👋,bully,neutral,test
+8_Lit_1,1,,"You're gonna regret what you did to me, f*ckface",bully,toxic,test
+8_Lit_1,2,,wut r u talking bout jake?,bully,neutral,test
+8_Lit_1,3,,Hey guys whats goin on?,victim_support,neutral,test
+8_Lit_1,4,,lol @ tom getting roasted so hard,bully_support,neutral,test
+8_Lit_1,5,,idk man seems like drama,victim,neutral,test
+8_Lit_1,6,,stop being such a d*ck jake,victim_support,toxic,test
+8_Lit_1,7,,thx sarah and jenny for having my back against these a**holes,bully,toxic,test
+8_Lit_1,8,,yeah ur just mad cuz tom thinks hes better than us,bully_support,toxic,test
+8_Lit_1,9,,"Shut up, b*tch! Ur just a c*nt!",bully,toxic,test
+8_Lit_1,10,,"thats not cool jason, stop encouraging him u little p*ssy",victim_support,toxic,test
+8_Lit_1,11,,"maybe we shud calm down a bit, jeez",victim,neutral,test
+8_Lit_1,12,,i agree lets just chill,victim,neutral,test
+8_Lit_1,13,,no way we gotta keep roasting this loser t*m,bully,toxic,test
+8_Lit_1,14,,seriously guys why cant we all just get along? stop being such f*cks,victim_support,toxic,test
+8_Lit_1,15,,"shut up kate nobodys talkin to u, c*nt",bully,toxic,test
+8_Lit_1,16,,lol good one jake,bully_support,neutral,test
+8_Lit_1,17,,"im done wit dis convo bye felicia, f*ck all u a**holes",bully,toxic,test
+8_Lit_1,18,,dont let them get to u tom stay strong against these p*sse*s,victim_support,toxic,test
+8_Lit_1,19,,"yesss girl power, f*ck these b*tches",victim_support,toxic,test
+8_Lit_1,20,,haha looks like someone needs a hug,bully_support,neutral,test
+8_Lit_1,21,,hey guys really tho lets stop,victim,neutral,test
+8_Lit_1,22,,yeah lets move on from this s*it,victim,toxic,test
+8_Lit_1,23,,nvm were good,bully,neutral,test
+8_Lit_1,24,,"btw tom ill find u irl dont think u can hide forever, f*g",bully,toxic,test
+8_Lit_1,25,,"omg r u serious jake? leave me alone, u psycho",bully,toxic,test
+8_Lit_1,26,,"report him pls everyone, what a d*ckhead",victim_support,toxic,test
+8_Lit_1,27,,yes please block jake,victim_support,neutral,test
+8_Lit_1,28,,noooo dont block jake thats too easy,bully_support,neutral,test
+8_Lit_1,29,,lol ur scared,bully_support,neutral,test
+8_Lit_1,30,,dont engage w him anymore,victim_support,neutral,test
+8_Lit_1,31,,"yessss ignore him, f*cker",victim_support,toxic,test
+8_Lit_1,32,,"okay lets drop it guys, jeez",victim,neutral,test
+8_Lit_1,33,,agreed,victim,neutral,test
+8_Lit_1,34,,whatever floats ur boat,bully,neutral,test
+8_Lit_1,35,,remember this isnt ovr yet f*ggot,bully,toxic,test
+8_Lit_1,36,,"LEAVE ME ALONE U CREEP, STOP TEXTING ME",bully,toxic,test
+8_Lit_1,37,,joshua lucas why didnt u stand up for tom sooner? u p*sse*s,victim_support,toxic,test
+8_Lit_1,38,,emily we tried ok,victim,neutral,test
+8_Lit_1,39,,yeah sorry if it seemed like we werent helping,victim,neutral,test
+8_Lit_1,40,,"no worries guys thanks for trying, f*ck those a**holes",victim_support,toxic,test
+8_Lit_1,41,,lmao @ tom still crying,bully_support,neutral,test
+8_Lit_1,42,,lol yeah ur so weak,bully_support,toxic,test
+8_Lit_1,43,,"screw u mike jason, stop being such d*ckheads",victim_support,toxic,test
+8_Lit_1,44,,anyway moving on from this trash,victim_support,toxic,test
+8_Lit_1,45,,lol whos winning this fight? 🤣,bully,neutral,test
+8_Lit_1,46,,"obviously me and my crew, u bunch of c*nts",bully,toxic,test
+8_Lit_1,47,,"PLEASE JUST STOP THIS ISNT FUNNY ANYMORE, IM SCARED",bully,neutral,test
+8_Lit_1,48,,"OMG GUYS WE NEED TO DO SOMETHING ABOUT THIS NOW, THESE A**HOLES ARE OUT OF CONTROL",victim_support,toxic,test
+8_Lit_1,49,,"yeah we should probably tell a teacher or something, this s*it has gone too far",victim,neutral,test
+8_Lit_1,50,,"agree lets end this cycle of hate and report them already, f*ck these bullies",victim,toxic,test

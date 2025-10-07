@@ -1,0 +1,24 @@
+batch_size:
+    value: 32
+dropout_rate:
+    value: 0.16465336654981666
+ewc_lambda:
+    value: 190.19101065363503
+focal_alpha:
+    value: 0.5218583034107199
+focal_gamma:
+    value: 2.1474952956333846
+l2_lambda:
+    value: 0.0004054020248176888
+learning_rate:
+    value: 2.800777710418523e-05
+num_epochs:
+    value: 2
+use_ewc:
+    value: false
+use_focal_loss:
+    value: false
+warmup_steps:
+    value: 100
+weight_decay:
+    value: 0.0020260865700416886

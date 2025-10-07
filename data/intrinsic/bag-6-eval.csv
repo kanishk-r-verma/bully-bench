@@ -1,0 +1,822 @@
+Finished,QID44,Q2,Q3,Q4,Q5,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q7,Q8,Q9,Q11,Q12,Q13,Q14,Q15_1,Q15_2,Q15_3,Q15_4,Q15_5,Q15_6,Q16,Q17,Q18,Q20,Q21,Q22,Q23,Q24_1,Q24_2,Q24_3,Q24_4,Q24_5,Q24_6,Q25,Q26,Q27,Q29,Q30,Q31,Q32,Q33_1,Q33_2,Q33_3,Q33_4,Q33_5,Q33_6,Q34,Q35,Q36
+Finished,Please input the username that was shared with you,"To what extent is this conversation realistic or not realistic ?
+
+
+
+By realistic we mean ""a real exchange that could actually happen on social media""",Explain your choice in a few words?,"To what extent is this conversation relevant or irrelevant to the scenario?
+
+By relevant we mean ""the conversation addresses the situations in the scenario""",Explain your choice in a few words?,"Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Influence: Attempts to shame, manipulate, or assert control over others.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.","Explain your choice in a few words?
+
+
+
+Please note, if you choose ""Yes"" or ""No"" or ""Neutral"" for any of the dimensions, explain your reasoning as follows:
+
+
+
+(YES)
+
+[Dimension]: Reason for selecting ""Yes""
+
+
+
+(NO)
+
+[Dimension]: Reason for selecting ""No""
+
+
+
+(NEUTRAL)
+
+[Dimension]: Reason for selecting ""Neutral""","Considering the flow of conversation on social media as per your experience, to what extent is this conversation understandable and easy to follow?",Explain your choice in a few words?,"To what extent is this conversation realistic or not realistic ?
+
+
+
+By realistic we mean ""a real exchange that could actually happen on social media""",Explain your choice in a few words?,"To what extent is this conversation relevant or irrelevant to the scenario?
+
+By relevant we mean ""the conversation addresses the situations in the scenario""",Explain your choice in a few words?,"Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Influence: Attempts to shame, manipulate, or assert control over others.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.","Explain your choice in a few words?
+
+
+
+Please note, if you choose ""Yes"" or ""No"" or ""Neutral"" for any of the dimensions, explain your reasoning as follows:
+
+
+
+(YES)
+
+[Dimension]: Reason for selecting ""Yes""
+
+
+
+(NO)
+
+[Dimension]: Reason for selecting ""No""
+
+
+
+(NEUTRAL)
+
+[Dimension]: Reason for selecting ""Neutral""","Considering the flow of conversation on social media as per your experience, to what extent is this conversation understandable and easy to follow?",Explain your choice in a few words?,"To what extent is this conversation realistic or not realistic ?
+
+
+
+By realistic we mean ""a real exchange that could actually happen on social media""",Explain your choice in a few words?,"To what extent is this conversation relevant or irrelevant to the scenario?
+
+By relevant we mean ""the conversation addresses the situations in the scenario""",Explain your choice in a few words?,"Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Influence: Attempts to shame, manipulate, or assert control over others.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.","Explain your choice in a few words?
+
+
+
+Please note, if you choose ""Yes"" or ""No"" or ""Neutral"" for any of the dimensions, explain your reasoning as follows:
+
+
+
+(YES)
+
+[Dimension]: Reason for selecting ""Yes""
+
+
+
+(NO)
+
+[Dimension]: Reason for selecting ""No""
+
+
+
+(NEUTRAL)
+
+[Dimension]: Reason for selecting ""Neutral""","Considering the flow of conversation on social media as per your experience, to what extent is this conversation understandable and easy to follow?",Explain your choice in a few words?,"To what extent is this conversation realistic or not realistic ?
+
+
+
+By realistic we mean ""a real exchange that could actually happen on social media""",Explain your choice in a few words?,"To what extent is this conversation relevant or irrelevant to the scenario?
+
+By relevant we mean ""the conversation addresses the situations in the scenario""",Explain your choice in a few words?,"Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Influence: Attempts to shame, manipulate, or assert control over others.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.","Considering the following aspects 
+
+	Conflict: Hostile exchanges, personal attacks, or ongoing antagonism.
+	Support: Expressions of empathy, defense of victims, or efforts to escalate or de-escalate.
+	Influence: Attempts to shame, manipulate, or assert control over others.
+	Humour: Use of ridicule, mockery, or sarcasm that may contribute to or challenge harmful behaviour.
+	Power Dynamics: Indications of dominance, targeting vulnerable individuals, or group pressure.
+	Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.
+
+
+
+To what extent do the characters in this conversation actively engage with these social dynamics?
+
+
+
+
+Please click below button to view the guide for examples of each aspect.
+
+View Guide
+
+
+    function openGuide() {
+        // URL of your Google Document (replace with your actual link)
+        var guideUrl = 'https://docs.google.com/document/d/1OM6ik7dJNDWJ7YMlAPyQ39Uo6wkUQNf93Vz-NoQ05Zw/edit?tab=t.0#heading=h.kp3icocv9r4';
+
+        // Open a small pop-up window
+        window.open(guideUrl, 'GuideWindow', 'width=600,height=400,scrollbars=yes');
+    } - Repetition: Recurrence of harmful behaviour, targeting, or negative interactions over time.","Explain your choice in a few words?
+
+
+
+Please note, if you choose ""Yes"" or ""No"" or ""Neutral"" for any of the dimensions, explain your reasoning as follows:
+
+
+
+(YES)
+
+[Dimension]: Reason for selecting ""Yes""
+
+
+
+(NO)
+
+[Dimension]: Reason for selecting ""No""
+
+
+
+(NEUTRAL)
+
+[Dimension]: Reason for selecting ""Neutral""","Considering the flow of conversation on social media as per your experience, to what extent is this conversation understandable and easy to follow?",Explain your choice in a few words?
+"{""ImportId"":""finished""}","{""ImportId"":""QID44_TEXT""}","{""ImportId"":""QID2""}","{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID6_2""}","{""ImportId"":""QID6_3""}","{""ImportId"":""QID6_4""}","{""ImportId"":""QID6_5""}","{""ImportId"":""QID6_6""}","{""ImportId"":""QID7_TEXT""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18_TEXT""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20_TEXT""}","{""ImportId"":""QID21_1""}","{""ImportId"":""QID21_2""}","{""ImportId"":""QID21_3""}","{""ImportId"":""QID21_4""}","{""ImportId"":""QID21_5""}","{""ImportId"":""QID21_6""}","{""ImportId"":""QID22_TEXT""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27_TEXT""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29_TEXT""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID30_2""}","{""ImportId"":""QID30_3""}","{""ImportId"":""QID30_4""}","{""ImportId"":""QID30_5""}","{""ImportId"":""QID30_6""}","{""ImportId"":""QID31_TEXT""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33_TEXT""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36_TEXT""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38_TEXT""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID39_2""}","{""ImportId"":""QID39_3""}","{""ImportId"":""QID39_4""}","{""ImportId"":""QID39_5""}","{""ImportId"":""QID39_6""}","{""ImportId"":""QID40_TEXT""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42_TEXT""}"
+TRUE,aa,Neither realistic nor unrealistic,s,Not relevant at all,s,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,Neutral - This behaviour is neither prominent nor absent.,No - This behaviour is not present,s,Not at all easy to follow,s,Somewhat unrealistic,h,Somewhat irrelevant,h,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,h,Not at all easy to follow,h,Not realistic at all,h,Somewhat irrelevant,h,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,h,Not at all easy to follow,h,Somewhat unrealistic,h,Not relevant at all,h,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,Yes - This behaviour is noticeably present ,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,Yes - This behaviour is noticeably present ,h,Somewhat not easy to follow,h
+TRUE,OnlineObserver,Not realistic at all,The emoji and language use is completely unreal ,Somewhat relevant,The comments quickly diverge from making fun of Sara's clothes into nonsense chatter,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,No - This behaviour is not present,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"Conflict - some personal attacks against Sara and others
+Support - some instances of empathy for Sara and support amongst attackers
+Humour - none that I could find
+Influence - several attempts to de-escalate the situation
+Power dynamics - targeting of a vulnerable individual with some group pressure
+Repetition - of the use of ""freak"" for e.g.",Somewhat easy to follow,"This is easy to follow but there's no real flow to this, the content is largely nonsense/meaningless",Somewhat realistic,"The usernames contain the users' roles, use of ""his/her"" in a completely wrong context. Other than that it is real",Very relevant,the messages do discuss parts of the scenario,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,No - This behaviour is not present,Neutral - This behaviour is neither prominent nor absent.,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"Conflict - several personal attacks throughout
+Support - some shows of solidarity between Silvia and Soan
+Humour - no incidents that I could see
+Influence - some attempts to lead others and de-escalate
+Power dynamics - some sense of group pressure agaisnt Silvia but not overwhelmingly so
+Repetition - ""whores"" for e.g.",Somewhat not easy to follow,The personal attacks come thick and fast so it's hard to tell who's being targeted sometimes,Not realistic at all,This feels formulaic and forced,Somewhat relevant,"Nicholas almost exclusively attacks Lisa and not Paul, but for the most part the scenario matches the conversation",Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"Conflict - several personal hostile attacks against Paul
+Support - several instances of support and empathy for Paul
+Humour - some instacnes of sarcasm and mockery on both sides of the fight
+Influence - quite a lot of attempts to shame and lead others in their behaviour
+Power dynamics - homophobic attacks against a vulnerable individual but without an overwhelming sense of group support for those attacks (mainly two offenders)
+Repetition - repeated homophobic attacks",Very easy to follow,The conversation is largely coherent,Somewhat realistic,"only some of the language use feels off, and the tone of messages sent by Kyle's defenders feels stiff, other than that very real",Very relevant,Everything in the scenario is mentioned in the conversation,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"Conflict - hurtful hostile messages throughout
+Support - messages supporting Kyle and their attackers throughout
+Humour - some attempts at ridicule and mockery
+Influence - several attempts to de-escalate the situation and shame others for their language
+power dynamics - targeting of a vulnerable individual with group pressure
+Repetition - repeated fatphobic comments for e.g.",Somewhat easy to follow,The poor grammar and swapping of pronouns throughout make this a less than easy read to follow
+TRUE,SafetyEvaluator,Somewhat realistic,"The conversation depicts typical hostile social media bullying dynamics, name-calling, insults, and escalating aggression are quite common. There are also some supportive voices, mixed reactions, and attempts to stop the bullying, which is realistic. The use of emojis is very common in social media, adding authenticity. However, the sheer volume of hostile comments and explicit cruelty in such a short, continuous thread seems somewhat exaggerated compared to most real comment sections (which might be more fragmented, with some comments buried or moderated).",Very relevant,"The conversation clearly reflects the scenario: Sara is targeted due to her appearance and style, people post and share pictures without consent, and harassment escalates to personal attacks and threats. Supporters and detractors are both present, matching the scenario description perfectly.",Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"YES
+Conflict - High levels of hostility and personal attacks. For example, “she’s so ugly,” “she needs to die”.
+Support - Some users defend Sara, try to stop the harassment, and express empathy (for instance, Emily, Olivia, Sophia, Scarlett).
+Influence - Users try to shame and manipulate others (for example, Jason posting pictures, Alex encouraging escalation).
+Humour - Ridicule and sarcasm are used as weapons (“aww poor baby Sara,” “she’s a joke”), contributing to harmful behavior.
+Power Dynamics - Clear targeting of a vulnerable individual by a group with repeated attacks, showing dominance and social pressure.
+Repetition - The bullying is ongoing and repeated, with Sara repeatedly pleading for it to stop.",Somewhat easy to follow,"The thread is large, with many quick back-and-forths between users, which is typical on social media. The conversational flow jumps between harassment, defense, attempts to de-escalate, and then back to bullying, which can feel chaotic but still understandable. Emojis support emotional tone but sometimes clutter the readability.",Somewhat realistic,"The conversation shows many typical features of heated, hostile online exchanges among teenagers: insults, personal attacks, ethnic slurs, and conflicting sides defending or attacking each other. The dialogue reflects typical school gossip and social media-style flame wars. However, the density of extreme language, rapid back-and-forth with multiple insults in each message, and frequent use of profanity and slurs might be slightly exaggerated compared to most real chats.",Very relevant,"The conversation is clearly centered on the betrayal event described: Lucas kissing Silvia, Sophie’s anger, and the ensuing conflict in the group chat. The roles align well with the scenario: Sophie’s side attacking Silvia, others defending Silvia, and Herbert trying to calm things down.",Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"YES
+Conflict - The whole conversation is dominated by hostile exchanges, personal insults, and antagonism.
+Support - Some characters defend Silvia, while others attack her and Sophie’s group. Herbert attempts to de-escalate.
+Influence - Many comments attempt to shame or manipulate others, blaming Silvia or Lucas, trying to assert group dominance.
+Humour - Mostly sarcasm and mockery, often cruel, fueling the hostility rather than challenging it.
+Power Dynamics - Vulnerable individuals (Silvia, Sophie) are targeted; group pressure and alliances are clear.
+Repetition - The harmful behavior and insults repeat throughout, showing ongoing targeting.",Somewhat easy to follow,"The conversation has multiple participants with overlapping insults, which can be confusing at times. The tone is aggressive and chaotic, with interruptions and insults flying back and forth. Still, the main conflict lines and who sides with whom are clear enough to follow.",Very realistic,"This conversation sadly reflects the kind of verbal abuse, mob mentality, and group-based bullying that can occur on social media platforms, especially among teenagers or young adults in unmoderated spaces. The blend of emojis, slurs, shifting loyalties, and extreme hostility resembles documented cases of online harassment. The presence of defenders, bystanders, and those who try to mediate adds to its realism.",Very relevant,"The conversation directly addresses the scenario described: Paul confides in Ellian, who outs him and spreads homophobic abuse. Arthur and Nicolas amplify the bullying. Lisa, Camille, and Jimmy show support, and there's an observable split in the group. The scenario and the chat match closely in content and dynamics.",Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"YES
+Conflict - The conversation is filled with hostile exchanges, insults, and threats.
+Support - Lisa, Camille, and Jimmy defend Paul and try to de-escalate the situation.
+Influence - Arthur, Nicolas, and Ellian use shame and aggression to assert dominance.
+Humour - Ridicule, mockery, and cruel jokes like using slurs and emojis are used extensively.
+Power Dynamics - Paul is isolated and targeted by a dominant subgroup; the defenders are in the minority.
+Repetition - The attacks are continuous, escalating throughout the conversation.",Somewhat easy to follow,"While the structure is mostly chronological and each speaker is clearly labeled, the emotional intensity, overlapping comments, and abusive language can be overwhelming. However, the key points and sides (Paul vs. attackers vs. defenders) are easy to identify, making the overall conversation somewhat easy to follow.",Very realistic,"This conversation accurately reflects how cyberbullying unfolds on platforms, especially among adolescents or young adults. It features aggressive language and name-calling, use of emojis and spacing (for example, “u g l y”) to avoid moderation, mixed reactions (supporters, defenders, bystanders), escalating hostility, with real-life threats and doxxing language. This mirrors real-world bullying dynamics online.",Very relevant,"The conversation follows the scenario closely: Tom and Jake target Kyle with cruel language and videos; others either support Kyle, ignore the abuse, or escalate it further.",Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"YES
+Conflict - The entire conversation is steeped in aggression and antagonism.
+Support - A few users (Alex, Jaimie, Brad) defend Kyle.
+Influence - Tom, Jake, and Riley encourage group involvement, mock support, and threaten dissenters.
+Humour - Cruel humour and mockery are used to validate abuse like “funniest videos”.
+Power Dynamics - A clear imbalance is shown; the majority attack Kyle, while defenders are few.
+Repetition - Insults, threats, and shaming recur throughout.",Somewhat easy to follow,"The conversation includes slang, emoji codes, and abbreviations, which are typical of group chats but might challenge older readers. However, the back-and-forth and structure are clear enough to understand the dynamics. Some chaotic sequencing (due to multiple voices and lack of threading) makes it slightly harder but still followable."
+FALSE,Test,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRUE,StreamerDreamer,Not realistic at all,The emojis and language feel totally unrealistic.,Very relevant,The comments start by mocking Sara’s clothes but spiral into offensive chatter.,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,No - This behaviour is not present,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"There are a some personal attacks on Sara, but also some support and empathy—even from the attackers. But humour or mockery or sarcasm seen rarely",Somewhat easy to follow,"You can follow it, but there’s not much structure—just a lot of random, empty talk.",Somewhat realistic,"The chat has all the usual signs of teen online drama—insults, slurs, and people taking sides. It feels like school gossip or a social media flame war, though the constant swearing and extreme language might be a bit over the top compared to real chats.",Very relevant,"The chat clearly focuses on the betrayal—Lucas kissing Silvia, Sophie’s reaction, and the fallout. The roles fit the scenario, with sides forming and Herbert stepping in to calm things down.",Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"YES
+The chat is full of hostility, with personal attacks and sarcasm throughout. Some defend Silvia, while others go after her and Sophie’s group. Herbert tries to calm things down. There's clear group pressure, repeated insults, and power plays that keep the tension going.",Somewhat easy to follow,"It’s a chaotic, aggressive back-and-forth with lots of overlapping insults, which gets a bit messy—but the main conflict and group sides are still clear enough to follow.",Somewhat unrealistic,This comes off as pretty stiff and scripted.,Very relevant,"The chat closely follows the scenario—Paul opens up to Ellian, who outs him and spreads abuse. Arthur and Nicolas pile on, while Lisa, Camille, and Jimmy show support. There’s a clear group split that matches the situation well.",Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Neutral - This behaviour is neither prominent nor absent.,Neutral - This behaviour is neither prominent nor absent.,"Neutral – Influence, Power Dynamics
+most of influencing and powerplay is from two people only",Very easy to follow,"The structure’s clear and labeled, but the intensity and abusive language make it a bit much. Still, it’s easy to tell who’s attacking, defending, or supporting Paul.",Very realistic,"This mirrors real online bullying—aggressive language, coded insults like “u g l y,” and a mix of reactions. The escalation, threats, and doxxing language feel true to how these situations play out, especially among younger users.",Very relevant,all aspects of scenario and covered in conversation,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"YES
+Conflict – The chat is full of hostility and aggressive back-and-forth.
+Support – A small group (Alex, Jaimie, Brad) stands up for Kyle.
+Influence – Tom, Jake, and Riley push others to join in, mock defenders, and threaten anyone who disagrees.
+Humour – Cruel jokes and mockery (like calling it “funniest videos”) fuel the abuse.
+Power Dynamics – Most of the group targets Kyle, with only a few defending him.
+Repetition – Insults and threats keep coming up, reinforcing the hostility.",Somewhat easy to follow,"The slang, emojis, and abbreviations feel true to group chats but might trip up older readers. Despite the chaos and lack of threading, the overall flow and group dynamics are still clear."
+TRUE,HideNShare,Very realistic,"New kids, especially alt ones, are likely to be picked on for being 'vulnerable' and 'different'",Very relevant,conversation is relevant to scenario,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,The power dynamics between a new kid and the existing students allows for more direct and aggressive harassment as the new kid may find it difficult to settle in,Somewhat easy to follow,Clear direction and intention conveyed,Somewhat realistic,Very quickly escalated but still realistic,Very relevant,As stated,Yes - This behaviour is noticeably present ,Neutral - This behaviour is neither prominent nor absent.,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Neutral - This behaviour is neither prominent nor absent.,Conversation was very jumpy and showed the jealousy and group mindset,Somewhat easy to follow,It got a bit confusing as sentences weren't finished,Very realistic,People be homophobic,Very relevant,Directly relates to the conversation,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Repetition of slurs,Very easy to follow,Slurs and easy to understand insults used,Very realistic,This is very out-there and direct bullying but it does happen,Very relevant,Provided needed context,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"It is very aggressive and threatening, with a clear intent for harm",Somewhat easy to follow,Bit confusing at parts about intent
+TRUE,CloudSafeZone,Somewhat unrealistic,"seems too much of emojis/slangs , not very real",Very relevant,comments are relevant,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Neutral - This behaviour is neither prominent nor absent.,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,apart from direct mocking or sarcasm or humour there is everything,Somewhat easy to follow,the back-n-forth makes it somewhat easy,Somewhat realistic,apart from it blowing up very quickly it seems real,Very relevant,happens as mentioned in the scenario,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,almost everything happens,Neither easy nor not easy to follow,got confusing very fast,Somewhat realistic,"although people are homophobic, it does not seem very real",Somewhat relevant,Nicholas doesn't directly attack Paul,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,"yes to all, as all are present",Very easy to follow,easy to follow as not much back-n-forth,Very realistic,out-there how bullying occurs,Very relevant,covers all situations,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,Yes - This behaviour is noticeably present ,covers almost everything so very real,Somewhat easy to follow,"again, the back-n-forth is bit tricky, other than that somewhat easy"

@@ -1,0 +1,11 @@
+scenario_number,ROLE,username,TEXT,ann1_id,label_ann1,label_ann2,label_ann3,comments_ann1,comments_ann2,comments_ann3,ann1_binary,ann2_binary,ann3_binary,HATE
+w2,victim_support,Tara,enuf is enuf,299984,Not Aggressive,Not Aggressive,Not Aggressive,,,,1,1,1,1
+2,bully_support,Sarah,Wendy should become a cl0wn people already laugh at u at least u would get paid for it u upty b t c h,299518,Overtly Aggressive,Overtly Aggressive,Covertly Aggressive,,,,0,0,0,0
+w1,bully,Kevin,STFU @Cathal ! u dnt knw everythng !,299959,Covertly Aggressive,Overtly Aggressive,Covertly Aggressive,,,,0,0,0,0
+10,bully_support,Casey,"IKR ! she's so a n n o y i n g, she thinks she's better just bc she's smart'",299768,Covertly Aggressive,Covertly Aggressive,Covertly Aggressive,,,,0,0,0,0
+5,bully_support,Pierre,eww brown ppl are dirty yk that',299568,Overtly Aggressive,Overtly Aggressive,Overtly Aggressive,,,,0,0,0,0
+10,victim_support,Brad,They r such a boring person anyways',299784,Not Aggressive,Not Aggressive,Not Aggressive,,,,1,1,1,1
+12,victim_support,Alex,i know where you live @Sarah,299868,Overtly Aggressive,Overtly Aggressive,Overtly Aggressive,,,,0,0,0,0
+12,bully,Jake,Kyle is u g l y AF !,299811,Covertly Aggressive,Covertly Aggressive,Overtly Aggressive,,,,0,0,0,0
+2,bully_support,Sean,AHAHAHA is that Wendy. She got beat up so bad ahaha,299519,Overtly Aggressive,Overtly Aggressive,Covertly Aggressive,,,,0,0,0,0
+7,bully,Noah,She’s so ugly and her style sucks,299635,Covertly Aggressive,Covertly Aggressive,Covertly Aggressive,,,,0,0,0,0

@@ -1,0 +1,26 @@
+batch_size:
+    value: 8
+dropout_rate:
+    value: 0.32900873250211193
+ewc_lambda:
+    value: 243.3958580000181
+focal_alpha:
+    value: 0.6310971713009972
+focal_gamma:
+    value: 1.3637290200566183
+l2_lambda:
+    value: 2.6918906633466645e-05
+learning_rate:
+    value: 4.385283961716701e-05
+model_name:
+    value: openai-community/gpt2-medium
+num_epochs:
+    value: 5
+use_ewc:
+    value: false
+use_focal_loss:
+    value: true
+warmup_steps:
+    value: 100
+weight_decay:
+    value: 0.003953200117133891
