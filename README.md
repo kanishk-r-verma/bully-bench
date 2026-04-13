@@ -15,8 +15,12 @@ We appreciate your understanding and patience.
 - **`data/`**
   - **`GOLD_TEST.csv`**
      BullyBench --> GOLD_TEST  
-  - **`all_data/role_all/`**  
-    Used as input by `train_test.py`. See the `src/` directory for training and testing scripts.
+  - **`all_data/`**  
+    Contains three folders `llm_both`, `llm_fren` (llm + french-to-english), `llm_iten` (llm + italian-to-english);
+    For french-to-english see `fr-to-en`; For italian-to-english see https://github.com/kanishk-r-verma/translated-bullying-whatsapp-corpus
+    These are used as input by `train_test.py`. See the `src/` directory for training and testing scripts.
+  - **`fr-to-en/`**
+    Contains English translation of Ollagnier et al 2022, 2024 cyber-aggression corpus. 
   - **`intrinsic/`**  
     Contains the annotation data used by `human_eval_final.ipynb` for intrinsic evaluation.
 
