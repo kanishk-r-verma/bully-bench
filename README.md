@@ -120,3 +120,39 @@ python train_test.py \
 ---
 
 Feel free to reach out for any clarifications regarding the setup or usage.
+
+--- 
+
+## Citation
+```
+@inproceedings{verma-etal-2025-bullybench,
+    title = "{B}ully{B}ench: Youth {\&} Experts-in-the-loop Framework for Intrinsic and Extrinsic Cyberbullying {NLP} Benchmarking",
+    author = "Verma, Kanishk  and
+      Kalaivendan, Sri Balaaji Natarajan  and
+      Kazemi, Arefeh  and
+      Wagner, Joachim  and
+      McCashin, Darragh  and
+      Walsh, Isobel  and
+      Basak, Sayani  and
+      Asci, Sinan  and
+      Cherkasova, Yelena  and
+      Poullis, Alexandrous  and
+      O{'}Higgins Norman, James  and
+      Umbach, Rebecca  and
+      Milosevic, Tijana  and
+      Davis, Brian",
+    editor = "Potdar, Saloni  and
+      Rojas-Barahona, Lina  and
+      Montella, Sebastien",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+    month = nov,
+    year = "2025",
+    address = "Suzhou (China)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-industry.152/",
+    doi = "10.18653/v1/2025.emnlp-industry.152",
+    pages = "2172--2208",
+    ISBN = "979-8-89176-333-3",
+    abstract = "Cyberbullying (CB) involves complex relational dynamics that are often oversimplified as a binary classification task. Existing youth-focused CB datasets rely on scripted role-play, lacking conversational realism and ethical youth involvement, with little or no evaluation of their social plausibility. To address this, we introduce a \textbf{youth-in-the-loop} dataset ``\textbf{BullyBench}'' developed by adolescents (ages 15{--}16) through an ethical co-research framework. We introduce a structured \textbf{intrinsic} quality evaluation with \textbf{experts-in-the-loop} (social scientists, psychologists, and content moderators) for assessing realism, relevance, and coherence in youth CB data. Additionally, we perform \textbf{extrinsic} baseline evaluation of this dataset by benchmarking encoder- and decoder-only language models for multi-class CB role classification for future research. A three-stage annotation process by young adults refines the dataset into a gold-standard test benchmark, a high-quality resource grounded in minors' lived experiences of CB detection. Code and data are available for review"
+}
+```
